@@ -1,0 +1,22 @@
+# Dependencias
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Variables de entorno
+.env
+.env.local
+
+# Logs
+*.log
+
+# Sistema operativo / editor
+.DS_Store
+.vscode/
+.idea/
+
+# React Native (una vez inicializado con la CLI)
+mobile/android/
+mobile/ios/
